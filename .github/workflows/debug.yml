@@ -1,3 +1,5 @@
+name: Workflow debug info
+
 on: push
 
 jobs:
