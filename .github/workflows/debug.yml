@@ -1,6 +1,6 @@
 name: Workflow debug info
 
-on: push
+on: [push, pull_request]
 
 jobs:
   debug:
